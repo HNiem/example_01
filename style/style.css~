@@ -102,7 +102,7 @@ h6 {
 	text-decoration: none; 	/* keine Unterstreichung*/
 	color: rgb(175,178,178);       		/* Schriftfarbe weiß*/	
 }
-@media only screen and (max-width:90px) {xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+@media only screen and (max-width:700px) {
 	#steuerung a {
 		padding-left: 50px;
 	}

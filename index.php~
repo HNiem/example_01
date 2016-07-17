@@ -3,7 +3,7 @@
 
 	<head>
 		<?php 
-			include '/template/head.php';
+			include '/template/head/head.php';
 		?>
 	</head>
 	<body>
@@ -38,6 +38,9 @@
 				</div>
 	
 		</section>
+		<?php 
+			include '/template/footer/footer.php';
+		?>	
 		<footer class="tabellen_zelle" id="footer_height">
 				<div id="testfooter"></div>
 			
