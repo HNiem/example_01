@@ -3,19 +3,20 @@
 
 	<head>
 		<?php 
-			include '/template/head/head.php';
+
+			include "template/head/head.php";
 		?>
 	</head>
 	<body>
 		<?php 
-			include '/template/header/header.php';
+			include 'template/header/header.php';
 		?>
 
 		<section class="tabellen_zelle maximale_hoehe">
 		
 				<div id="headerbildhintergrund">
 				<?php 
-					include '/template/headerbild/headerbild.php';
+					include 'template/headerbild/headerbild.php';
 				?>	
 								
 				</div>
@@ -30,8 +31,17 @@
 						<div class="databox contentbox">
 							<h1>Lorem ipsum dolor sit amet,</h1>
 							<h2>consecteteur adipiscing elit fermentum</h2>
-							<p>cras taciti eni, libero, ante pede cum. Nulla phasellus hac. Vel curabitur pharetra, semper parturient ipsum. Integer nunc taciti morbi eu turpis mauris, proin euismod cursus. Vivamus ac, cursus leo ut. Nulla quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, eu montes integer at, pede mi. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit. Orci elit habitasse varius, mi praesent integer. Convallis. Proin enim ac magna suspendisse habitant, tristique diam orci non cum.</p>
-							<p>cras taciti eni, libero, ante pede cum. Nulla phasellus hac. Vel curabitur pharetra, semper parturient ipsum. Integer nunc taciti morbi eu turpis mauris, proin euismod cursus. Vivamus ac, cursus leo ut. Nulla quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, eu montes integer at, pede mi. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit. Orci elit habitasse varius, mi praesent integer. Convallis. Proin enim ac magna suspendisse habitant, tristique diam orci non cum.</p>
+							<p>
+								cras <a class="underline" href="#">normal underline</a> taciti eni, libero, <a href="#">normal</a> ante pede cum. <a href="#" class="blue">Blau</a> Nulla phasellus hac. Vel curabitur pharetra, semper parturient ipsum. Integer nunc taciti morbi eu turpis mauris, 
+								proin euismod cursus. Vivamus ac, cursus leo ut. Nulla quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, eu montes 
+								integer at, <a class="white" href="#">white</a> pede mi <a class="gray" href="#">gray</a>. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit. Orci 
+								elit habitasse varius, mi praesent integer. Convallis. <a href="#" class="yellow">gelb</a> proin enim ac magna suspendisse habitant. <a href="#" class="lightblue">hellblau</a> tristique diam orci non cum.
+							</p>
+							<p>
+								cras taciti eni, libero, ante pede cum. Nulla phasellus hac. <a href="#" class="red">Red</a> Vel curabitur pharetra, semper parturient ipsum. Integer nunc taciti morbi eu turpis mauris, proin 
+								euismod cursus. Vivamus ac, cursus leo ut. Nulla quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, eu montes integer at, 
+								pede mi. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit. Orci elit habitasse 
+								varius, mi praesent integer. Convallis. Proin enim ac magna <a href="#" class="green">green</a> suspendisse habitant, tristique diam orci non cum.</p>
 						</div>
 					</div>					
 	
@@ -39,7 +49,7 @@
 	
 		</section>
 		<?php 
-			include '/template/footer/footer.php';
+			include 'template/footer/footer.php';
 		?>	
 	</body>
 </html>

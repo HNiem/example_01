@@ -3,11 +3,11 @@
 			
 				<nav id="steuerung_footer">
 					<ul>
-						<li><a href="#">Impressum</a></li>
-						<li><a href="#">Datenschutzerklärung</a></li>
-						<li><a href="#">Disclaimer</a></li>
-						<li><a href="#">Lorem Ipsum</a></li>
-						<li><a href="#">Lorem Ipsum</a></li>				
+						<li><a href="/official/impressum.php">Impressum</a></li>
+						<li><a href="/official/datenschutzerklärung.php">Datenschutzerklärung</a></li>
+						<li><a href="/official/disclaimer.php">Disclaimer</a></li>
+						<li><a href="/official/fremdmaterial.php">Fremdmaterial</a></li>
+		<!--				<li><a href="#">Lorem Ipsum</a></li>		-->		
 					</ul>
 				</nav>
 					

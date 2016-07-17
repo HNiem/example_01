@@ -29,6 +29,22 @@ p {
 	color: rgb(228,228,226);
 	font-size: 17px;
 }
+a {
+	color: rgb(166,166,164); 
+	/*rgb(78,154,6)*/
+	font-weight: bold;
+	text-decoration: none;
+
+}
+a:hover {
+	color: rgb(255,255,253); 
+	font-weight: bold;
+	text-decoration: underline;
+}
+a:active {
+	color: rgb(114,159,207);
+
+}
 /* Überschriften */
 h1 {
 	color: rgb(228,228,226);
@@ -64,7 +80,16 @@ h6 {
 .red {
 	color: rgb(193,2,2)
 }
+.white {
+	color: rgb(255,255,253); 
+}
+.gray {
+		color: rgb(105,105,104); 
+}
+.underline {
+	text-decoration: underline;
 
+}
 
 
 
@@ -98,6 +123,7 @@ h6 {
 	display: block;
 	height: 100%;
 	width: 100%;
+	width: 100%;
 	padding: 1em 0.8em 0.8em 0.8em;
 	text-decoration: none; 	/* keine Unterstreichung*/
 	color: rgb(175,178,178);       		/* Schriftfarbe weiß*/	
@@ -122,7 +148,7 @@ h6 {
 /*eigenes CSS ############################################################################################## */
 /*headerbereich*/
 #headerbild {
-	background: url(/images/headerbild.png) no-repeat;
+	background: url(/images/system/headerbild.jpg) no-repeat;
 	background-position: center center;
 	-webkit-background-position: center center;
 	-moz-background-position: center center;
@@ -153,7 +179,10 @@ h6 {
 	width: 72%;
 	float: left;
 }
-
+#haupt_spalte_single {
+	width: 90%;
+	margin: 0 auto;
+}
 @media only screen and (max-width:650px){
 #content_area {
 	width: 100%;
@@ -195,11 +224,12 @@ h6 {
 	padding: 0.8em;
 	text-decoration: none; 	/* keine Unterstreichung*/
 	color: white;       		/* Schriftfarbe weiß*/
+	border-top: 2px solid transparent;
 }
 
 
 #steuerung_footer a:hover {
-	color: color: rgb(238,238,236);;
+	color: rgb(238,238,236);
 	background: rgb(52,57,57);
 	border-top: 2px rgb(33,93,156) solid;
 }
@@ -227,7 +257,7 @@ h6 {
 
 
 /* CSS um MENU-Button und mobile Steuerung erweitern ####################################################### */
-@media only screen and (max-width:700px) {
+@media only screen and (max-width:710px) {
 	.menue-button {
 		background-color: none;	
 		display: block;
