@@ -176,11 +176,11 @@ h6 {
 	margin-left: 3%;
 }
 #haupt_spalte {
-	width: 90%;
+	width: 72%;
 	float: left;
 }
 #haupt_spalte_single {
-	width: 72%;
+	width: 90%;
 	margin: 0 auto;
 }
 @media only screen and (max-width:650px){
