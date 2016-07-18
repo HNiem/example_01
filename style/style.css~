@@ -20,9 +20,10 @@ header{
 }
 .tabellen_zelle {
 	display: table-row;
-	background-color: ddddddddddddddd;
 }
-
+::selection {
+	background-color: rgba(62,122,5,0.9);
+}
 /* allgemeine Formatierung*/
 /* text */
 p {
@@ -30,21 +31,28 @@ p {
 	font-size: 17px;
 }
 a {
-	color: rgb(166,166,164); 
-	/*rgb(78,154,6)*/
+	color: rgb(95,168,7); /*rgb(58,168,7)*/ 
 	font-weight: bold;
 	text-decoration: none;
 
 }
-a:hover {
-	color: rgb(255,255,253); 
-	font-weight: bold;
-	text-decoration: underline;
-}
-a:active {
-	color: rgb(114,159,207);
+a:visited {
+	color: rgb(54,107,4);
 
 }
+a:focus {
+	border: 1px rgb(78,154,6) dotted;
+}
+a:hover {
+	color: rgb(116,229,9); 
+	font-weight: bold;
+
+}
+a:active {
+	color: rgb(185,151,3);
+}
+
+
 /* Überschriften */
 h1 {
 	color: rgb(228,228,226);
@@ -148,7 +156,7 @@ h6 {
 /*eigenes CSS ############################################################################################## */
 /*headerbereich*/
 #headerbild {
-	background: url(/images/system/headerbild.jpg) no-repeat;
+	background: url(/images/system/headerbild-google-optimized.jpg) no-repeat;
 	background-position: center center;
 	-webkit-background-position: center center;
 	-moz-background-position: center center;

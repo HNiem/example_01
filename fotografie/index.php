@@ -4,19 +4,19 @@
 	<head>
 		<?php 
 
-			include "template/head/head.php";
+			include "../template/head/head.php";
 		?>
 	</head>
 	<body>
 		<?php 
-			include 'template/header/header.php';
+			include '../template/header/header.php';
 		?>
 
 		<section class="tabellen_zelle maximale_hoehe">
 		
 				<div id="headerbildhintergrund">
 				<?php 
-					include 'template/headerbild/headerbild.php';
+					include '../template/headerbild/headerbild.php';
 				?>	
 								
 				</div>
@@ -49,7 +49,7 @@
 	
 		</section>
 		<?php 
-			include 'template/footer/footer.php';
+			include '../template/footer/footer.php';
 		?>	
 	</body>
 </html>
