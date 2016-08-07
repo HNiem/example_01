@@ -23,25 +23,31 @@
 				<div id="content_area">
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
-								<p>cras taciti eni, libero, ante pede cum. Nulla phasellus hac. Vel curabitur pharetra, semper parturient ipsum. Integer nunc taciti morbi eu turpis mauris, proin euismod cursus. Vivamus ac, cursus leo ut. Nulla quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, eu montes integer at, pede mi. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit.</p>
+							<?php 
+								include '../template/fotografie/fotografie.php';
+							?>	
+							
+
 						</div>
 						
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
-							<h1>Lorem ipsum dolor sit amet,</h1>
-							<h2>consecteteur adipiscing elit fermentum</h2>
+							<h1>Fotografie</h1>
+							<h2>und das Spiel mit der Zeit</h2>
 							<p>
-								cras <a href="asdfga">normal underline</a> taciti eni, libero, <a href="asdf#">normal</a> ante pede cum. <a href="#">Blau</a> Nulla phasellus hac. Vel curabitur pharetra, semper parturient ipsum. Integer nunc taciti morbi eu turpis mauris, 
-								proin euismod cursus. Vivamus ac, cursus leo ut. Nulla quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, eu montes 
-								integer at, <a class="white" href="#">white</a> pede mi. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit. Orci 
-								elit habitasse varius, mi praesent integer. Convallis. <a href="#" class="yellow">gelb</a> proin enim ac magna suspendisse habitant. <a href="#">hellblau</a> tristique diam orci non cum.
+								In der Fotografie hat es mir vor allem die Möglichkeit, Aufnahmen durch verschiedene Belichtungszeiten und Aufnahmeintervalle verlängert oder verkürzt darzustellen, angetan.
+								<br /><br /> 
+								Vor allem die Verformung von Wolken oder die Bewegung von Menschenmengen, die in der Realität Stunden dauert kann in ein Video mit wenigen Sekunden Spielzeit verkürzt (Timelapse)
+								und die Bewegung der Sterne während einer ganzen Nacht in ein Bild zusammengefasst werden (Starlapse). Oder man fängt gar die Bahnen der Sonne in einer einzigen Aufnahme, die 
+								eine Belichtungszeit von mehreren Monaten bis Jahren haben kann, ein. 
+								<br /><br />
 							</p>
 							<p>
-								cras taciti eni, libero, ante pede cum. Nulla phasellus hac. <a href="#">Red</a> Vel curabitur pharetra, semper parturient ipsum. Integer nunc taciti morbi eu turpis mauris, proin 
-								euismod cursus. Vivamus ac, cursus leo ut. Nulla quisque. Massa varius in dui elementum facilisi. Eros sed velit nostra. Ac, ridiculus metus, eu montes integer at, 
-								pede mi. Porttitor curae ipsum taciti suspendisse. Venenatis libero litora tristique nam, etiam velit, blandit ad, proin ad eu tellus blandit. Orci elit habitasse 
-								varius, mi praesent integer. Convallis. Proin enim ac magna <a href="#" class="green">green</a> suspendisse habitant, tristique diam orci non cum.</p>
+								Doch auch die Fotografie von Landschaften, Blumen und Insekten ist ein spannendes Gebiet, zu dem ich hier einige meiner Bilder zeige.
+							</p>
+							<div style="width: 800px; height: 400px; background-color: green; ">
+							</div>
 						</div>
 					</div>					
 	

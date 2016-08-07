@@ -33,16 +33,16 @@ a:visited {
 	color: rgb(54,107,4);
 
 }
-a:focus {
-	border: 1px rgb(78,154,6) dotted;
-}
-a:hover {
-	color: rgb(116,229,9); 
-	font-weight: bold;
 
+a:hover {
+
+	font-weight: bold;
+	text-decoration: underline;
 }
 a:active {
-	color: rgb(185,151,3);
+	color: rgb(116,229,9); 
+	border: none;
+	
 }
 
 
@@ -91,7 +91,16 @@ h6 {
 	text-decoration: underline;
 
 }
-
+.video-full {
+	width: 95%;
+	height: auto;
+	margin: 20px 2.5% 10px 1%;
+}
+.img-full {
+	width: 95%;
+	height: auto;
+	margin: 20px 2.5% 10px 1%;
+}
 
 /* ###################################################################################   headerbereich  ########### */
 header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
@@ -239,11 +248,39 @@ header{ /* Gesamter Kopfbereich (Zeile mit Navigation oben) */
 	margin: 0 2% 0 2%;
 }
 }
+
+/*  Kleine Spalte links  */
 .databox {
 	padding: 15px;
 	margin-bottom: 3em;
 }
 
+.databox ul {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	color: red;
+}
+.databox ul li {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+
+}
+.databox ul li a {
+	display: block;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	border-bottom: 1px solid grey;
+	padding: 4px 15px 3px 10px;
+	color: rgb(288,288,266);
+}
+.databox ul li a:hover {
+	background-color: rgba(288,288,266,0.2);
+	text-decoration: none;
+}
 
 
 /* Sticky Footer ########################################################################################### */

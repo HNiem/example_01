@@ -60,18 +60,12 @@
 								Opt-Out-Cookie gelöscht wird. Das Opt-Out muss bei einem erneuten Beuch unserer Seite wieder aktiviert werden.
 							</p>
 							<p>
-								<em>
-									<strong>
-										<a style="color:#F00;" href="http://piwik.org/docs/privacy/" rel="nofollow" target="_blank">[
-											Hier PIWIK iframe-Code einfügen] (Klick für die Anleitung)
-										</a>
-									</strong>
-								</em>
+								<iframe style="border: 0; height: 200px; width: 600px; color: rgb(228,228,226); font-size: 17px; font-family: Arial, sans-serif;" src="https://statistics.niemeczek.at/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
 							</p>
 							<p>
 							</p>
 							<p>
-								<strong>
+					<!--		<strong>
 									Datenschutzerklärung für die Nutzung von YouTube
 								</strong>
 							</p>
@@ -86,7 +80,7 @@
 							<p>
 								Weitere Informationen zum Umgang von Nutzerdaten finden Sie in der Datenschutzerklärung von YouTube unter 
 								<a href="https://www.google.de/intl/de/policies/privacy">https://www.google.de/intl/de/policies/privacy</a></p><p> </p>
-							<p>
+							<p> -->
 								<strong>
 									Auskunft, Löschung, Sperrung</strong></p> <p>Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, 
 									deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen 
