@@ -100,6 +100,44 @@ h6 {
 	width: 95%;
 	height: auto;
 	margin: 20px 2.5% 10px 1%;
+
+}
+.imagedatabox {
+	width: 100%;
+	height: 240px;
+	border: rgb(105,105,104) solid 2px;
+
+}
+
+.imagedatabox-image {
+	display: block;
+	float: left;
+	width: 38.2%;
+	height: 100%;
+	border-right: rgb(105,105,104) solid 2px;
+
+
+}
+.imagedatabox-image a{
+	display: block;
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+.imagedatabox-image img{
+	display: block;
+	margin: 0 auto;
+	max-height: 100%;
+	width: auto;
+	max-width: 100%;
+}
+.imagedatabox-description{
+
+	display: block;
+	float: left;
+	width: 61.8%;
+	height: 100%;
+	padding: 20px;
 }
 
 /* ###################################################################################   headerbereich  ########### */

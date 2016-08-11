@@ -48,14 +48,14 @@
 								<br /><br />
 							</p>
 							
-								<a href="/images/fotografie/starlapse/badkleinkirchheim-2016-Sommerurlaub.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
-   								<img class="img-full" src="/images/fotografie/starlapse/badkleinkirchheim-2016-Sommerurlaub-small.png" alt="alternative Erklärung">
+								<a href="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
+   								<img class="img-full" src="/images/fotografie/starlapse/badkleinkirchheim-2015-Sommerurlaub-small.png" alt="alternative Erklärung">
  								</a>
- 								<p>Sternstrichspuraufnahme aus Bad Kleinkirchheim, 2016. Oben ist abgeschnitten ein Iridium-Flare zu sehen.</p>
+ 								<p>Sternstrichspuraufnahme aus Bad Kleinkirchheim, 2015. Oben ist abgeschnitten ein Iridium-Flare zu sehen.</p>
 								<a href="/images/fotografie/starlapse/startrails-kroatien.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
    								<img class="img-full" src="/images/fotografie/starlapse/startrails-kroatien-small.png" alt="alternative Erklärung">
  								</a>
- 								<p>Sternstrichspuraufnahme aus Kroatien, aufgenommen im Sommer 2016, rechts ist ein Iridium-Flare zu sehen.</p>
+ 								<p>Sternstrichspuraufnahme aus Kroatien, aufgenommen im Sommer 2015, rechts ist ein Iridium-Flare zu sehen.</p>
 								<a href="/images/fotografie/starlapse/startrails-kroatien-sternschnuppenförmig.jpg" data-lightbox="bild-1" data-title="Bildunterschrift">
    								<img class="img-full" src="/images/fotografie/starlapse/startrails-kroatien-sternschnuppenförmig-small.png" alt="alternative Erklärung">
  								</a>
@@ -85,6 +85,8 @@
 		</section>
 		<?php 
 			include '../template/footer/footer.php';
+			include '../template/fotografie/fotografie-footer.php';
+			
 		?>	
 		<script src="/js/lightbox-plus-jquery.min.js"></script>
 	</body>
