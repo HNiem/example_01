@@ -49,22 +49,36 @@ a:active {
 /* Überschriften */
 h1 {
 	color: rgb(228,228,226);
-	font-size: 20px;
+	font-size: 26px;
+		display: block;
+	width: 100%;
+	border-bottom: 1px solid rgb(228,228,226);
+	margin-bottom: 10px;
 }
 h2 {
 	color: rgb(228,228,226);
+	font-size: 23px;
+	display: block;
+	width: 100%;
+	border-bottom: 1px solid rgb(228,228,226);
+	margin-bottom: 10px;
 }
 h3 {
 	color: rgb(228,228,226);
+	font-size: 19px;
+
 }
 h4 {
 	color: rgb(228,228,226);
+	font-size: 16px;
 }
 h5 {
 	color: rgb(228,228,226);
+	font-size: 14px;
 }
 h6 {
 	color: rgb(228,228,226);
+	font-size: 11px;
 }
 .blue {
 	color: rgb(33,93,156); 

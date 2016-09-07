@@ -4,5 +4,5 @@
 								<li><a href="/fotografie/starlapse.php">Starlapse</a></li>
 								<li><a href="/fotografie/malenmitlicht.php">Malen mit Licht</a></li>
 								<li><a href="/fotografie/naturfotografie/">Natur&shyfotografie</a></li>
-								<li><a href="/fotografie/software.php">Software</a></li>
+								<li><a href="/fotografie/software.php">Soft- und Hardware</a></li>
 							</ul>

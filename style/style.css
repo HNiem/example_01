@@ -49,22 +49,27 @@ a:active {
 /* Überschriften */
 h1 {
 	color: rgb(228,228,226);
-	font-size: 20px;
+	font-size: 26px;
 }
 h2 {
 	color: rgb(228,228,226);
+	font-size: 23px;
 }
 h3 {
 	color: rgb(228,228,226);
+	font-size: 20px;
 }
 h4 {
 	color: rgb(228,228,226);
+	font-size: 18px;
 }
 h5 {
 	color: rgb(228,228,226);
+	font-size: 16px;
 }
 h6 {
 	color: rgb(228,228,226);
+	font-size: 13px;
 }
 .blue {
 	color: rgb(33,93,156); 

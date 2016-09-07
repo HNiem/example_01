@@ -34,7 +34,7 @@
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
 							<h1>Fotografie</h1>
-							<h2>und das Spiel mit der Zeit</h2>
+				<!--			<h2>und das Spiel mit der Zeit</h2>
 							<p>
 								In der Fotografie hat es mir vor allem die Möglichkeit, Aufnahmen durch verschiedene Belichtungszeiten und Aufnahmeintervalle verlängert oder verkürzt darzustellen, angetan.
 								<br /><br /> 
@@ -45,9 +45,7 @@
 							</p>
 							<p>
 								Doch auch die Fotografie von Landschaften, Blumen und Insekten ist ein spannendes Gebiet, zu dem ich hier einige meiner Bilder zeige.
-							</p>
-							<div style="width: 800px; height: 400px; background-color: green; ">
-							</div>
+							</p> -->
 						</div>
 					</div>					
 	

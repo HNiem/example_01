@@ -36,11 +36,11 @@
 							<h1>Zeitraffer/Timelapse</h1>
 							<p>
 								
-								Durch die Erddrehung wandert tagsüber die Sonne über den Himmel, in der Nacht wandern die Sterne ebenso, dadurch können schöne Strichspuraufnahmen erstellt werden. 
+								Bei der Aufnahme von Zeitraffern werden im Abstand von wenigen Sekunden (je nach Motiv bzw. Geschwindigkeit der Wolken 3-15s) Bilder aufgenommen, die dann durch eine Software zu einem Film verarbeitet werden.
 								<br /><br />
-								Normalerweise verwende ich Aufnahmeintervalle von 30 Sekunden, danach ist eine Pause von etwa 5 Sekunden notwendig, sodass die Kamera das aufgenommene Bild verarbeiten und
+								Die Aufnahme von Zeitraffervideos stellt hohe Anforderungen an den Fotografen, da nicht nur die aktuelle Situation für den Bildaufbau von Bedeutung ist, sondern auch das Aussehen des Motivs im weiteren Verlauf der Aufnahme von Bedeutung ist.
 								<br /><br />
-								Bei den Aufnahmen muss außerdem ein Intervalometer verwendet werden, da die meisten Kameras keines eingebaut haben. Dieses Gerät dient dazu, ohne weiteres Zutun alle paar 
+								Bei den Aufnahmen muss ein Intervalometer verwendet werden, da die meisten Kameras keines eingebaut haben. Dieses Gerät dient dazu, ohne weiteres Zutun alle paar 
 								Sekunden eine Aufnahme zu machen. Ich verwende dazu das Giga T PRO 2, das gleichzeitig auch als Fernauslöser verwendet werden kann.
 							</p>
 							<p>
