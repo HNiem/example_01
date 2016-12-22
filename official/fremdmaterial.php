@@ -23,8 +23,8 @@
 					<div id="haupt_spalte_single"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
 							<h1>Nicht selbst erstelltes Material</h1>
-							<h5>ddddd</h5>
-							<p>Ddddddddddd </p>
+							<h5>Design (Colours)</h5>
+							<p>Gnome Adwaita Dark Theme <br /> lgpl 2+ </p> 
 
 
 

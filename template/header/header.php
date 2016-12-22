@@ -2,9 +2,9 @@
 				<a href="/index.php" id="bereichlogo" class="linie_nach_unten_wenn_geoeffnet">Harald Niemeczek</a>
 				<nav id="steuerung">
 					<ul>
-						<li><a href="/über-mich.php">Über mich</a></li>
+						<li><a href="/about-me.php">About Me</a></li>
 						<li>
-							<a href="/fotografie/">Fotografie</a>
+							<a href="/photography/">Photography</a>
 					<!--		<ul class="hidden">
 								<li id="testy1"><a href="/fotografie/timelapse.php" >Timelapse</a></li>
 								<li id="testy2"><a href="/fotografie/starlapse.php" >Starlapse</a></li>
@@ -12,9 +12,9 @@
 							</ul> -->
 						
 						</li>
-						<li><a href="/projekte/">Projekte</a></li>
+						<li><a href="/projects/">Projects</a></li>
 						<li><a href="/blog/">Blog</a></li>
-						<li><a href="/kontakt.php">Kontakt</a></li>				
+						<li><a href="/contact.php">Contact</a></li>				
 					</ul>
 				</nav>
 				<a class="menue-button menue-button-beschr-close" href="#">

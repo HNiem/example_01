@@ -1,0 +1,2 @@
+Disallow: /official/
+Disallow: /kontakt.php

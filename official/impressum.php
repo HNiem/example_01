@@ -22,26 +22,18 @@
 				<div id="content_area">
 					<div id="haupt_spalte_single"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
-							<h1>Impressum</h1>
+							<h1>Impressum/Site Notice</h1>
 							<h4>Harald Niemeczek</h4>
 							<p>
-								1060 Wien<br />
-								Telefon: <a href="tel:+4367761208583">+4367761208583</a><br />
-								E-Mail: <a href="mail:postmaster@niemeczek.at">postmaster@niemeczek.at</a><br />
-								Kontaktaufnahme via E-Mail wird bevorzugt, eine Verschlüsselung via <a href="/blog/gpg/">GPG</a> ist erwünscht.
+								Wien, Österreich / Vienna, Austria<br />
+								Telefon/Phone: <a href="tel:+4367761208583">+4367761208583</a><br />
+								E-Mail: <a href="mailto:postmaster@niemeczek.at?subject=Request%20on%20niemeczek.at%20(Imprint)%20(Don!%20Change!)">postmaster@niemeczek.at</a><br />
+								Kontaktaufnahme via E-Mail wird bevorzugt, eine Verschlüsselung via <a href="/blog/gpg/">GPG</a> ist erwünscht. <br />
+								I prefer to be contacted via E-Mail, encryption with <a href="/blog/gpg/">GPG</a> is desired.
+								
 							</p>
-										<p>
-			<span class="blue">test</span>
-			<span class="lightblue">test</span>
-			<span class="yellow">test</span>
-			<span class="red">test</span>
-			<span class="green">test</span>
-			<span class="blue">test</span>
-			</p>	
-			
-
-
-							</div>
+							
+						</div>
 					</div>					
 	
 				</div>
