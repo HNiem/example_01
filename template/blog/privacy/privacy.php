@@ -6,7 +6,7 @@
 							<p>
 								<br />
 								<br />
-								<b class="lightblue size25">Alternative ...</b>
+								<b class="lightblue size8">Alternative ...</b>
 							</p>
 							<ul>
 								<li><a href="/blog/privacy/whatsapp">... zu Whatsapp</a></li>
@@ -16,5 +16,5 @@
 								<li><a href="/blog/privacy/kalender">... Kalender</a></li>
 								<li><a href="/blog/privacy/suchmaschine">... Kontakte</a></li>
 								<li><a href="/blog/privacy/email">... zu Freemail</a></li>
-								<li><a href="#"></a></li>  
+								<li><a></a></li>  
 							</ul>

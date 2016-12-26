@@ -105,16 +105,19 @@ h6 {
 	text-decoration: underline;
 
 }
-.size10 {
-	font-size: 10;
+.size4 {
+	font-size: 4mm;
 }
-.size15 {
-	font-size: 15;
+.size5 {
+	font-size: 5mm;
 }
-.size20 {
-	font-size: 20;
+.size6 {
+	font-size: 6mm;
 }
-.size25 {
+.size7 {
+	font-size: 7mm;
+}
+.size8 {
 	font-size: 8mm;
 
 }

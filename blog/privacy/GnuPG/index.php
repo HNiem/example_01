@@ -25,6 +25,7 @@
 						<div class="databox newsbox">
 							<?php 
 								include '../../../template/blog/privacy/privacy.php';
+								include '../../../template/blog/privacy/GnuPG.php';
 							?>	
 							
 
