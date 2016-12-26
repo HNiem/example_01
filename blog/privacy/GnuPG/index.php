@@ -75,7 +75,12 @@
 								
 								<br /><br />
 								Dieses Verfahren nennt man eine <b>asymetrische Verschlüsselung</b> - Ein Teil des Schlüsselpaares wird verwendet zum verschlüsseln, das andere zum entschlüsseln.
-								"Verschlüsselt" man mit dem privaten Schlüssel, nennt man das eine Unterschrift, die mit dem öffentlichen Schlüssel "entschlüsselt", also überprüft werden kann.
+								"Verschlüsselt" man mit dem privaten Schlüssel, nennt man das eine Unterschrift, die mit dem öffentlichen Schlüssel "entschlüsselt", also überprüft werden kann. 
+								Ein verschlüsseltes E-Mail kann immer noch von jedem erstellt werden (Jeder kann einen Text mit dem Public Key verschlüsseln und per Mail versenden). 
+								Daher ist es für eine sichere Kommunikation notwendig, dass E-Mails sowohl verschlüsselt als auch signiert werden.
+								<br /><br />
+								Trotzdem sind noch Metadaten (Also wann das E-Mail gesendet wurde, von wem es an wen gesendet wurde, die IP-Adresse des Absenders und damit 
+								von wo der Absender das Mail gesendet hat, den Betreff der Nachricht etc.) einfach lesbar. Weitere Informationen dazu gibt es <a href="/blog/privacy/email/">hier</a>. 
 								<br /><br />
 								<b>Wie garantiert man die Echtheit eines öffentlichen Schlüssels?</b> (Der könnte ja auch gefälscht worden sein!)
 								<br />
@@ -91,6 +96,9 @@
 								<a href="2veritasium" target="_blank">2Veritasium: How Connected Are We? (YouTube)</a>)
 								<br /><br />
 								Um Schlüssel zu signieren gibt es auch sog. Key Signing Parties.
+								<br /><br />
+								Für Windows-User geht es <a href="windows.php">hier</a> weiter, Linux-User sparen sich den Schritt der PGP-Installation da die Software in der Regel bereits 
+								mit der Distribution ausgeliefert wird. Für Linux-User geht es <a href="linux.php">hier</a> weiter.
 							
 							
 							
@@ -98,8 +106,23 @@
 							
 							
 								
+								<br /><br />
+								<br /><br />
+								<b>Videos zum Thema:</b>
+								<a href="" rel="nofollow">Youtube: Mailbox.org erklärt PGP</a>
+								<a href="https://emailselfdefense.fsf.org/de/" rel="nofollow">Free Software Foundation: </a>
+								<a href="" rel="nofollow"></a>
+								<br /><br />
+															Stiftfilm
 								
-								
+							Sempervideo
+								Theorie
+									https://www.youtube.com/watch?v=RNZBzZuXZKk
+								E-Mails verschlüsseln
+									https://www.youtube.com/watch?v=DRpzAwdCUsE
+									
+								https://emailselfdefense.fsf.org/de/
+								https://www.youtube.com/watch?v=XZlZFYhRzFk&index=4&list=PL3-bM7Aq1pUr8wiX4XFW1hxvH1SlfBtsT
 								<br /><br />
 								* Das gilt auch für Faxe und bedingt für Telefonanrufe und SMS.
 							</p>

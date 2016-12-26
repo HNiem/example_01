@@ -23,8 +23,12 @@
 				<div id="content_area">
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
-								<p>SORRY! UNDER CONSTRUCTION!</p>
-						</div>
+								<p>SORRY! UNDER CONSTRUCTION!
+								</p>
+
+									<?php 
+										include 'template/donate/donate-topdistance.php';
+									?>						</div>
 						
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	

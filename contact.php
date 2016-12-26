@@ -23,7 +23,9 @@
 				<div id="content_area">
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
-						
+									<?php 
+										include 'template/donate/donate.php';
+									?>
 						</div>
 						
 					</div>	

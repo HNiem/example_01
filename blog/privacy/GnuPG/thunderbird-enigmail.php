@@ -37,9 +37,10 @@
 							<p><br /><br /></p>
 							<h3>Installation</h3>
 							<p>
-								Benutzer, die einen Rechner mit Linux benutzen können sich Thunderbird meist direkt aus den Paketquellen installieren.
+								Benutzer, die einen Rechner mit Linux benutzen können sich Thunderbird meist direkt aus den Paketquellen installieren, PGP ist meist vorinstalliert. 
+								Unter Debian tut es beispielsweise ein <code>apt-get install icedove</code>.
 								<br /><br />
-								Windowsnutzer können sich die Software von der Mozilla-Webseite (Herstellen von Thunderbird) <a href="https://www.mozilla.org/de/thunderbird/">herunterladen</a>
+								<b>Windowsnutzer</b> können sich die Software von der Mozilla-Webseite (Herstellen von Thunderbird) <a href="https://www.mozilla.org/de/thunderbird/">herunterladen</a>
 								und die Standardinstallation durchgehen.
 								<br /><br />
 								Nach dem ersten Start wird gefragt, wie Thunderbird genutzt werden soll ("Systemintegration"). Hier das Häkchen vor "Bei jedem Start von Thunderbird überprüfen" 

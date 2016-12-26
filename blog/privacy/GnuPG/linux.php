@@ -33,26 +33,16 @@
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
-							<h1>GPG4Win</h1>
+							<h1>PGP unter Linux</h1>
 							<p><br /><br /></p>
 							<h3>Installation</h3>
 							<p>
-								Windowsnutzer können sich die Software von der GPG4Win-Webseite <a href="https://www.gpg4win.de/">herunterladen</a>.
-								<b>ACHTUNG: mit dem Internet-Explorer lässt sich das Programm nicht herunterladen (Der Browser kann die Webseite nicht darstellen)!</b>
-								Auf der Gpg4Win-Webseite wird um Spenden gebeten, um die Entwicklung zu finanzieren. Wenn man 0€ auswählt, funktioniert der Download auch ohne zu spenden.
+								Linux-Nutzer müssen PGP in der Regel nicht mehr installieren, da das Programm standardmäßig meist bereits vorhanden ist. 
 								<br /><br />
-								Danach folgt man der Standardinstallation. Nutzer, die kein Outlook verwenden können bei der Auswahl der zu installierenden Komponenten GpgOL abwählen.
-								Nachdem die Installation fertig ist öffnet sich ein Editor mit einer Datei, die Informationen über die installierte Software, bekannte Probleme etc. gibt.
-								<br />
-								Nach der Installation geht es mit <a href="thunderbird-enigmail.php">Enigmail in Thunderbird</a> weiter.
-								<br />
-								Eine Anleitung für Outlook kann ich leider nicht liefern, da MS Office nur nach Angabe der Kreditkartendaten heruntergeladen werden kann. Sorry!
-								<br />
-								Eine kurze Suche bei der Suchmaschine des geringsten Misstrauens hilft hier weiter.
-								<br />
-								
+								Für fast alle E-Mail Clients gibt es PGP-Plugins, eine Suche bei der Suchmaschine des geringsten Misstrauens hilft hier weiter.
+								<br />Die Einrichtung von Enigmail unter Thunderbird (Debian: Icedove) ist <a href="thunderbird-enigmail.php">hier</a> beschrieben.
+								<br /><br />
 							</p>
-								
 								
 								
 								

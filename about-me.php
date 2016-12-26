@@ -24,6 +24,10 @@
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
 								<p>"The plant isn't dead, <br / >it grows just crispy"</p>
+
+									<?php 
+										include 'template/donate/donate-topdistance.php';
+									?>
 						</div>
 						
 					</div>	
