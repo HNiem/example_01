@@ -90,7 +90,8 @@
 								<a href="https://support.mailbox.org/knowledge-base/article/jabber-service-mit-eigener-domain-nutzen">(und XMPP)</a> können 
 								ebenfalls genutzt werden. Die Domain kann aber nicht über mailbox.org registriert werden, dies muss über einen externen Anbieter geschehen.
 								<br /><br />
-								Es ist möglich, seinen 
+								Es ist möglich, seine PGP Schlüsseln hochzuladen, um damit online verschlüsseln zu können. Das sehe ich aber sehr kritisch, 
+								private PGP-Keys haben anderswo als am eigenen Rechner nichts zu suchen.
 								<br /><br />
 								<br /><br />
 								
@@ -98,7 +99,8 @@
 								
 							</p>
 							<p>
-								Die Beschreibungen der Unternehmen sind übrigens freiwillig. Ich erhalte dafür keinerlei Geld oder andere Leistungen.
+								Die Beschreibungen der Unternehmen sind übrigens freiwillig. Ich erhalte dafür weder Geld noch andere Leistungen. Ich war noch nicht Kunde der
+								beiden Unternehmen, die Texte sind auf Basis der Webseiten und Rückfragen beim Support entstanden.
 							</p>
 
 
