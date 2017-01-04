@@ -80,6 +80,35 @@ h6 {
 	color: rgb(228,228,226);
 	font-size: 11px;
 }
+blockquote {
+	color: rgb(228,228,226);
+	font-size: 17px;
+	border: 1px solid rgb(228,228,226);
+	margin: 20px 5px 10px 12px;
+	padding: 10px;
+	
+}
+blockquote cite {
+	font-style: italic;
+	color: rgb(228,228,226);
+}
+blockquote cite a {
+	font-style: italic;
+	color: rgb(228,228,226);
+}
+blockquote cite a:visited {
+	font-style: italic;
+	font-weight: normal;
+	color: rgb(105,105,104); 
+}
+blockquote cite a:hover {
+	font-style: italic;
+	color: rgb(78,154,6);
+}
+blockquote cite a:active {
+	font-style: italic;
+	color: rgb(78,154,6);
+}
 .blue {
 	color: rgb(33,93,156); 
 }

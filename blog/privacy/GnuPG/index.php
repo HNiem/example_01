@@ -109,21 +109,18 @@
 								
 								<br /><br />
 								<br /><br />
-								<b>Videos zum Thema:</b>
-								<a href="" rel="nofollow">Youtube: Mailbox.org erklärt PGP</a>
-								<a href="https://emailselfdefense.fsf.org/de/" rel="nofollow">Free Software Foundation: </a>
-								<a href="" rel="nofollow"></a>
+								<b>Weitere Info zum Thema:</b>
 								<br /><br />
-															Stiftfilm
+								<a href="http://www.openpgp-schulungen.de/" rel="nofollow">PGP umfangreich und detailliert erklärt. Erst kürzlich entdeckt und schon davon begeistert</a>
+								<br />
+								<a href="https://www.youtube.com/watch?v=inxNRA4xK1Q" rel="nofollow">Youtube: Mailbox.org erklärt PGP</a>
+								<br />
+								<a href="https://emailselfdefense.fsf.org/de/" rel="nofollow">Free Software Foundation: Einrichtung unter verschiedenen Betriebssystemen</a>
+								<br />
+								<a href="https://www.youtube.com/playlist?list=PL3-bM7Aq1pUr8wiX4XFW1hxvH1SlfBtsT" rel="nofollow">Youtube: Sempervideo erklärt PGP</a>
+								<br /><br />
+
 								
-							Sempervideo
-								Theorie
-									https://www.youtube.com/watch?v=RNZBzZuXZKk
-								E-Mails verschlüsseln
-									https://www.youtube.com/watch?v=DRpzAwdCUsE
-									
-								https://emailselfdefense.fsf.org/de/
-								https://www.youtube.com/watch?v=XZlZFYhRzFk&index=4&list=PL3-bM7Aq1pUr8wiX4XFW1hxvH1SlfBtsT
 								<br /><br />
 								* Das gilt auch für Faxe und bedingt für Telefonanrufe und SMS.
 							</p>

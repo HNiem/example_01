@@ -33,20 +33,8 @@
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
-							<h1>Cloud-Alternativen</h1>
-							<p><br /><br />
-							https://owncloud.org/providers/
-							
-							
-					<!--		https://owncube.com/index-de.php 
-								https://www.netzwelt.de/news/141431-snowden-dropbox-gefaehrlich-privatsphaere.html
-					
-					
-					
-					
-					-->
-							
-							</p>
+							<h1>Alternativen zum Google PlayStore</h1>
+							<p><br /><br /></p>
 
 
 
