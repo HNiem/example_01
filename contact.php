@@ -35,7 +35,15 @@
 							<p>
 								Contact me via E-Mail (<a href="mailto:postmaster@niemeczek.at?subject=Request%20on%20niemeczek.at%20(Contact)%20(Don!%20Change!)">postmaster@niemeczek.at</a>). 
 								Encryption via <a href="/blog/gpg/">GPG</a> is desired.
+								
+								<br /><br />
 								Another Option is XMPP/Jabber (<a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>).
+								<br /><br />
+								PGP-Key:
+								<br />
+								<a href="/GnuPG/Harald Niemeczek harald@niemeczek.at (0x68A0EF1D) pub.asc">0x68A0EF1D</a>
+								<br />
+								Signature: 9258 49E8 4B61 5C76 235A DE49 FD27 9AD7 68A0 EF1D
 							</p>
 							<p>
 								
