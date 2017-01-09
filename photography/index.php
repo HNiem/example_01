@@ -35,9 +35,9 @@
 					</div>	
 					<div id="haupt_spalte"> <!-- haupt Spalte -->	
 						<div class="databox contentbox">
-							<h1>Fotografie</h1>
+							<h1>Photography</h1>
 							<p>In that area of my website I show some of the photos I made. 
-							In photography I especially like messing around with time, for Instance by making long-exposure images, stacking images taken over a long time to a single one 
+							In photography I especially like messing around with time, for instance by making long-exposure images, stacking images taken over a long time to a single one 
 							or creating a time-lapse out of several hundred images.
 							<br /><br />
 							NOTE: Most of the pages there are still in German, but the images can also be enjoyed without description.

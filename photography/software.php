@@ -35,7 +35,7 @@
 						<div class="databox contentbox">
 							<h1>Soft- und Hardware</h1>
 							<p>
-								Im folgenden möchte ich die Soft- und Hardware, die sich bei mir in Verwendung findet, kurz vorstellen:
+								Im Folgenden möchte ich die Soft- und Hardware, die sich bei mir in Verwendung findet, kurz vorstellen:
 							
 								<br /><br /><br />
 							</p>	
@@ -57,7 +57,7 @@
 								<h3>Startrails</h3>
 							<p>
 								Die Einzelbilder bei der Aufnahme von Strichspuraufnahmen werden über <a href="http://www.startrails.de/html/softwared.html">Startrails</a> zu einem Gesamtbild zusammengefügt. Dank der Verwendungsmöglichkeit von Dunkel- und Vordergrundbildern lassen sich Bilder in besonders hoher Qualität erzeugen.
-								Leider läuft das Programm nicht unter Linux und wird deshalb in einer VM mit Windows ausgeführt.
+								Leider läuft das Programm nicht unter Linux und wird deshalb in einer Virtuellen Maschine (VM) mit Windows ausgeführt.
 							<br /><br />
 							</p>
 							<h3>Startrails</h3>
@@ -72,6 +72,28 @@
 								und wird, wie auch Startrails in einer VM mit Windows 7 betrieben.
 								Die Verarbeitung zu einem Video geht sehr zügig, Auflösung, Framerat usw. sind einstellbar.
 							<br /><br />
+							</p>
+							<h2>Hardware</h2><br />
+							<h3>Kameras</h3>
+							<p>
+								Nikon D3200
+								<br />
+								Nikon D80 (für Timelapse-Aufnahmen)
+								<br /><br />
+							</p>
+							<h3>Objektive</h3>
+							<p>
+								Nikon 18-105 mm VR DX 1:3.5-5.6 (Kit-Objektiv)
+								<br />
+								Nikon AF NIKKOR 28-80 mm 1:3.3-5.6 G (Kit-Objektiv)
+								<br />
+								Tamron AF 70-300mm 1:4-6.5 Tele-Macro
+								<br /><br />
+							</p>
+							<h3>Sonstiges</h3>
+							<p>
+								Giga T PRO 2 (für Fernauslösungen und Zeitraffer)
+								<br />
 							</p>
 						</div>
 					</div>					

@@ -43,8 +43,14 @@
 								<br />
 								<a href="/GnuPG/Harald Niemeczek harald@niemeczek.at (0x68A0EF1D) pub.asc">0x68A0EF1D</a>
 								<br />
-								Signature: 9258 49E8 4B61 5C76 235A DE49 FD27 9AD7 68A0 EF1D
+								GPG-Fingerprint: 9258 49E8 4B61 5C76 235A DE49 FD27 9AD7 68A0 EF1D
+								<br /><br />
+								OMEMO-Fingerprint: 39759531 a868f6e5 f922d90a 2f8dbbae b618cd26 476fc89d 019940f2 c4484920 
+								<br />
+								(for <a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>)
+								<br /><br />
 							</p>
+							
 							<p>
 								
 						</div>

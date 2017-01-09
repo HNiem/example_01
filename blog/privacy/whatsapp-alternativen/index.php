@@ -105,40 +105,50 @@
 								<br /><br /><br />
 							</p> 
 							<h2>Was jetzt?</h2>
+							<p><br /></p>
+							<h3>XMPP/Jabber</h3>
 							<p>
 								Die in meinen Augen beste Alternative ist <b>XMPP/Jabber</b>.
 								Jabber ist ein dezentrales Chatprotokoll (Dezentral = nicht ein großer Anbieter, sondern viele kleine. 
 								Theoretisch kann jeder sein eigenes Jabber/XMPP auf seinem eigenen Server betreiben, und trotzdem mit allen anderen Teilnehmern im Netzwerk kommunizieren).
-								
 								<br /><br />
-								Um mit Jabber chatten zu können braucht man erst mal einen sogenannten Client. Für Android-Geräte eignet sich vor allem die App <a href="https://conversations.im/">Conversations</a>. 
-								Diese ist im PlayStore erhältlich (2,39€). Die kostenlose Alternative ist der <a href="https://f-droid.org">F-Droid Appstore</a>, über den freie Apps 
-								kostenlos erhältlich sind. <a href="/blog/privacy/android/index.php#F-DROID">Mehr Info zu F-Droid</a>
-								
-								Für sämtliche anderen Betriebssysteme sind ebenfalls Clients vorhanden. Empfehlungen sind <a href="https://jabber.at/clients/">hier gelistet</a>. 
-								<br /><br /><br /><br />
-								
-								
-								Als zweiten Schritt muss man sich bei einem Server anmelden. Als Server schlage ich vor:  
+								Programme/Apps für XMPP existieren sowohl für Android, als auch für IOS, Windows, Linux, Mac und so gut wie sämtliche sonstige Betriebssysteme.
 								<br /><br />
-								<b>Jabber.at</b> Der Service wird von der Fachschaft für Informatik der TU Wien betrieben. 
-								Auf deren <a href="https://jabber.at/">Webseite</a> kann man sich registrieren. Anschließend die Anmeldedetails in der App eingeben, verbinden und loschatten.
+								XMPP/Jabber beschreibe ich <a href="xmpp.php">hier</a>. 
+								<br /><br /><br />
+							</p>
+							</p>
+							<h3>Signal</h3>
+							<p>
+								<a href="https://whispersystems.org/">Signal</a> ist eine App die sowohl für Android als auch für IOS verfügbar ist. 
+								Ebenso gibt es ein <a href="https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk?hl=en"> Plugin für Chrome</a>.
 								<br /><br />
-								<b>jabber.ccc.de</b> Dieser Server wird vom Chaos Computer Club e.V. betrieben. Eine Anmeldung ist nur direkt über den Client möglich. 
-								Bei Conversations muss beispielsweise der gewünschte Name (z.B. <a href="xmpp:hniem@jabber.ccc.de">hniem@jabber.ccc.de</a>) und 
-								das neu zu erstellende Passwort eingegeben werden, anschließend das Häkchen bei "Neues Konto auf Server erstellen" setzen, das Passwort erneut eingeben und
-								mit "weiter" einen neuen Account erstellen.
+								Signal hat eine gute Verschlüsselung verbaut und ist sehr einfach zu benutzen, (Video)-Telefonie ist möglich.
 								<br /><br />
-								<b>Mailbox.org</b> ist eigentlich ein <a href="/blog/privacy/email/index.php/index.php#MAILBOX-ORG">E-Mail Provider</a>. 
-								Mit dabei in den Paketen ist aber auch der Zugang zu einem XMPP/Jabber-Server. Mailbox.org ist die zu bevorzugende Variante, 
-								wenn man mit einer eigenen Domain chatten möchte (also beispielsweise vorname@nachname.tld) oder dort bereits eine E-Mail-Adresse hat. 
-								<br /><br /><br /><br />
-								Ein kurzer Überblick über die Funktionen von XMPP:
-								<b>(Video)-Telefonie:</b> Leider nur von wenigen Clients unterstützt
-								<b>Verschlüsselung:</b> Wenn OMEMO zur Verfügung steht, ist das das Mittel der Wahl.
-								
+								Zur Installation wird allerdings der Google Play-Store benötigt. Zudem benötigt die App Google Cloud Messaging (GCM).
+								<br /><br />
+								Die Alternative <a href="https://github.com/LibreSignal/LibreSignal">LibreSignal</a> sollte das verbessern, wurde aber eingestellt.
+								<br /><br /><br />
 								
 							</p>
+							<h3>Telegram</h3>
+							<p>
+								<a href="https://www.telegram.org/">Telegram</a> ist sowohl für Android (<a href="https://play.google.com/store/apps/details?id=org.telegram.messenger">PlayStore</a>, 
+								<a href="https://f-droid.org/repository/browse/?fdid=org.telegram.messenger">F-Droid</a>) als auch 
+								<a href="https://itunes.apple.com/app/telegram-messenger/id686449807">IOS</a>, Mac, Linux und Windows erhältlich. Ebenso steht eine Web-Version zur Verfügung.
+								<br /><br />
+								Die versendeten Nachrichten sind standardmäßig allerdings NICHT Ende-zu-Ende verschlüsselt und die Server-Software ist nicht Open-Source.
+								
+								<br /><br /><br />
+							<p>
+							<h3>SMS/Telefon</h3>
+							<p>
+								SMS/Telefonie <b>schützt nicht vor (Massen)-Überwachung</b>, die Kommunikation kann auch von Kriminellen abgehört werden. Daher ist SMS bzw. Telefonie keine 
+								gute Alternative.
+								<br /><br /><br />
+							</p>
+							<h3>Buschtrommeln, Dosentelefon und Rauchzeichen</h3>
+							<p>Trotz guter verfügbarer Verschlüsselung keine Alternative. Die Reichweite ist einfach zu kurz ;)</p>
 
 
 

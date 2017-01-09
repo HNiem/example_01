@@ -35,7 +35,7 @@
 						<div class="databox contentbox">
 							<h1>Starlapse/Startrails</h1>
 							<p>
-								Bei der Starlapse werden während mehrerer Stunden einer Nacht die Sterne, ähnlich wie bei einer <a href="/fotografie/timelapse.php">Timelapse</a> 
+								Bei der Starlapse werden während mehrerer Stunden einer Nacht die Sterne, ähnlich wie bei einer <a href="/photography/timelapse.php">Timelapse</a> 
 								aufgenommen und so die Wanderung über den Himmel sichtbar gemacht. Für gewöhnlich mache ich Aufnahmen mit einer Dauer von etwa 30 Sekunden, danach 
 								benötigt die Kamera etwa 5s um die Bilder zu speichern. Diese kurzen Pausen sind als kleine Lücken in den Bahnen sichtbar. 
 								Dabei entstehen Kreise um den Nordstern.<br /><br />

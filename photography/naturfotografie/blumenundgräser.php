@@ -49,7 +49,7 @@
 										<p>
 											<b>Grashalm mit Wassertropfen</b><br />
 											<b>Datum:</b>Juli 2016<br />
-											<b>Ort:</b> Wien, Nähe des Lainzer Tiergarten<br />
+											<b>Ort:</b> Wien, Nähe Lainzer Tiergarten<br />
 											<b>Kamera:</b> NIKON D80<br />
 											<b>Objektiv:</b> Tamron AF70-300mm F/4-5.6 Di LD MACRO 1:2<br />
 											<b>Blende:</b> F/5,6<br />
@@ -70,7 +70,7 @@
 										<p>
 											<b>Wiese im Morgenlicht</b><br />
 											<b>Datum:</b>Juli 2016<br />
-											<b>Ort:</b> Wien, Nähe des Lainzer Tiergarten<br />
+											<b>Ort:</b> Wien, Nähe Lainzer Tiergarten<br />
 											<b>Kamera:</b> NIKON D80<br />
 											<b>Objektiv:</b> Tamron AF70-300mm F/4-5.6 Di LD MACRO 1:2<br />
 											<b>Blende:</b> F/11,0<br />
@@ -91,7 +91,7 @@
 										<p>
 											<b>Allium Blüte</b><br />
 											<b>Datum:</b>Juli 2016<br />
-											<b>Ort:</b> Wien, Nähe des Lainzer Tiergarten<br />
+											<b>Ort:</b> Wien, Nähe Lainzer Tiergarten<br />
 											<b>Kamera:</b> NIKON D80<br />
 											<b>Objektiv:</b> Tamron AF70-300mm F/4-5.6 Di LD MACRO 1:2<br />
 											<b>Blende:</b> F/5,6<br />
@@ -112,7 +112,7 @@
 										<p>
 											<b>Eingezäunte Wiese</b><br />
 											<b>Datum:</b>Juli 2016<br />
-											<b>Ort:</b> Wien, Nähe des Lainzer Tiergarten<br />
+											<b>Ort:</b> Wien, Nähe Lainzer Tiergarten<br />
 											<b>Kamera:</b> NIKON D80<br />
 											<b>Objektiv:</b> Tamron AF70-300mm F/4-5.6 Di LD MACRO 1:2<br />
 											<b>Blende:</b> F/5,6<br />

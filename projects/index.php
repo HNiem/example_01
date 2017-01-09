@@ -30,7 +30,7 @@
 							<h2>Minecraft Vienna</h2>
 							<p>
 								In the project <a href="http://www.mcvienna.at/">Minecraft Vienna</a> we rebuild our hometown Vienna in Minecraft. 
-								Although the the city is still under construction (we already built approximately 1.4 square km), there can be seen amazing buildings, funny details and subways, that can be used in-game. 
+								Although the city is still under construction (we already built approximately 1.4 square km), there can be seen amazing buildings, funny details and subways, that can be used in-game. 
 								Currently I maintain the website.
 							</p>
 							<a href="/images/projects/Vienna-Donaukanal1.png" data-lightbox="bild-1" data-title="A rendered image of Vienna's Donaukanal built in Minecraft at McVienna">
