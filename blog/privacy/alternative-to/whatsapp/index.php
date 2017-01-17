@@ -3,20 +3,20 @@
 	<head>
 		<?php 
 
-			include "../../../template/head/head.php";
-			include "../../../template/head/lightbox.php";
+			include "../../../../template/head/head.php";
+			include "../../../../template/head/lightbox.php";
 		?>
 	</head>
 	<body>
 		<?php 
-			include '../../../template/header/header.php';
+			include '../../../../template/header/header.php';
 		?>
 
 		<section class="tabellen_zelle maximale_hoehe">
 		
 				<div id="headerbildhintergrund">
 				<?php 
-					include '../../../template/headerbild/headerbild.php';
+					include '../../../../template/headerbild/headerbild.php';
 				?>	
 								
 				</div>
@@ -24,7 +24,7 @@
 					<div id="linke_spalte"> <!-- linke Spalte -->
 						<div class="databox newsbox">
 							<?php 
-								include '../../../template/blog/privacy/privacy.php';
+								include '../../../../template/blog/privacy/privacy.php';
 							?>	
 							
 
@@ -110,7 +110,7 @@
 							<p>
 								Die in meinen Augen beste Alternative ist <b>XMPP/Jabber</b>.
 								Jabber ist ein dezentrales Chatprotokoll (Dezentral = nicht ein großer Anbieter, sondern viele kleine. 
-								Theoretisch kann jeder sein eigenes Jabber/XMPP auf seinem eigenen Server betreiben, und trotzdem mit allen anderen Teilnehmern im Netzwerk kommunizieren).
+								Theoretisch kann jeder sein eigenes Jabber/XMPP auf seinem eigenen Server betreiben, und trotzdem mit allen anderen Teilnehmern im Internet kommunizieren).
 								<br /><br />
 								Programme/Apps für XMPP existieren sowohl für Android, als auch für IOS, Windows, Linux, Mac und so gut wie sämtliche sonstige Betriebssysteme.
 								<br /><br />
@@ -164,7 +164,7 @@
 	
 		</section>
 		<?php 
-			include '../../../template/footer/footer.php';
+			include '../../../../template/footer/footer.php';
 		?>	
 		<script src="/js/lightbox-plus-jquery.min.js"></script>
 	</body>
